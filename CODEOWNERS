@@ -1,0 +1,4 @@
+# Zuständigkeit für die Kernfunktionen
+/src/app.py @Razzeflo
+/src/backend/database.py @Razzeflo
+/src/backend/routers/auth.py @Razzeflo
