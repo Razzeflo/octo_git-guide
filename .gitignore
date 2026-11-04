@@ -1,0 +1,23 @@
+# Python-Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.env
+venv/
+.venv/
+
+# Entwicklungswerkzeuge
+.vscode/
+.idea/
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+desktop.ini
